@@ -21,18 +21,16 @@
 - **Data & Infra:** PostgreSQL/MySQL, MongoDB, Docker basics, GitHub Actions  
 - **Practices:** Clean modules, PR reviews, small tests (Jest/JUnit), simple docs  
 
-## 🚀 Projects (short & honest)
+## 🚀 Highlighted Projects 
 - **RentalManagementSystem · Java, Spring Boot**  
   Services/Repos/DTOs, validation, JPA queries, REST controllers.
 - **CosmicTravelWebsite · JavaScript**  
   SPA-style pages, modular JS, simple routing, accessible components.
-- **COSC2767-RMIT-Store (fork) · React, Node, MongoDB**  
-  Product list, cart flow, API endpoints, Mongo models, README cleanup.
-- **GameJam (private) · Godot 4, GDScript**  
+- **GameJam · Godot 4, GDScript**  
   Core loop, input buffering, camera feel, simple state machine, HUD.
-- **ASM3 — Marble Madness (fork) · Godot**  
+- **ASM3 — Marble Madness · Godot**  
   Level tweaks, collectibles, timer/score UI, physics tuning.
-- **GameStudio1-Assignment-2-Group4SGS (fork) · Godot**  
+- **GameStudio1-Assignment-2-Group4SGS · Godot**  
   Scene wiring, simple enemy AI, HP/stamina bars, pause & settings UI.
 
 <details>
