@@ -52,7 +52,7 @@ I'm an **AI / IT student at RMIT Vietnam** who enjoys turning messy ideas into w
 </td>
 <td width="42%" valign="top">
 
-<img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=SALtruc&theme=crt&screen_effect=true&include_all_commits=true" alt="CRT GitHub stats" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SALtruc&theme=radical" alt="GitHub profile summary" />
 
 </td>
 </tr>
@@ -141,12 +141,12 @@ Small experiments with Godot and game-feel concepts.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SALtruc&show_icons=true&theme=radical&hide_border=false&bg_color=0D0221&title_color=FF2975&icon_color=00FFFF&text_color=FFFFFF&border_color=F222FF&count_private=true" alt="GitHub stats" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SALtruc&theme=radical" alt="GitHub stats" />
 <img height="175" src="https://streak-stats.demolab.com/?user=SALtruc&theme=radical&background=0D0221&border=F222FF&stroke=00FFFF&ring=FF2975&fire=FFD319&currStreakLabel=FF2975&sideLabels=00FFFF" alt="GitHub streak" />
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALtruc&theme=synthwave&layout=compact&langs_count=8&bg_color=0D0221&title_color=FF2975&text_color=FFFFFF&border_color=F222FF" alt="Top languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SALtruc&theme=radical" alt="Top languages" />
 
 </div>
 
